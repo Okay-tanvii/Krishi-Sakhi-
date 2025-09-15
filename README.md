@@ -1,2 +1,2 @@
-# Krishi-Sakhi-
+# Krishi-Sakhi
 Agriculture management system
